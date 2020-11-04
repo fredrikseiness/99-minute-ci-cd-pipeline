@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/joshmgrant/99-minute-ci-cd-pipeline)
+
 # 99 Minute Workshop - Building a Basic CI/CD Pipeline
 
 Hello there! 
